@@ -1,0 +1,6 @@
+[book]
+authors = ["Carlos daniel Gomes Santana"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Intermediate - Lua"
