@@ -4,3 +4,7 @@ language = "pt-br"
 multilingual = false
 src = "src"
 title = "Linguagem de Programação Lua em detalhes"
+
+[output.html.fold]
+enable = true
+level = 0
