@@ -1,6 +1,6 @@
 [book]
-authors = ["Carlos daniel Gomes Santana"]
-language = "en"
+authors = ["Carlos Daniel Gomes Santana"]
+language = "pt-br"
 multilingual = false
 src = "src"
-title = "Intermediate - Lua"
+title = "Linguagem de Programação Lua em detalhes"
