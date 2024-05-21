@@ -1,5 +1,7 @@
 # Tópicos da Parte I
 
+---
+
 - [Começando]()
   - [Chunks]()
   - [Convenções Léxicas]()
@@ -8,6 +10,9 @@
       - [Nil]()
       - [booleanos]()
   - [O Interpretador]()
+
+---
+
 - [Numbers]()
   - [Numerais]()
   - [Operadores Aritméticos]()
@@ -19,12 +24,18 @@
   - [Convenções]()
   - [Precedência]()
   - [Lua antes dos Integers]()
+
+---
+
 - [Strings]()
   - [String Literal]()
   - [String Longa]()
   - [Coerções]()
   - [A Biblioteca de String]()
   - [Unicode]()
+
+---
+
 - [Tables]()
   - [Índices das Tables]()
   - [Construtores de Tables]()
@@ -32,17 +43,26 @@
   - [Table Transversal]()
   - [Navegação Segura]()
   - [A Biblioteca de Table]()
+
+---
+
 - [Funções]()
   - [Resultados Múltiplos]()
   - [Funções Variadic]()
   - [A função de **table.unpack**]()
   - [Proper Tail Calls]()
+
+---
+
 - [O Mundo Exterior]()
   - [O Modelo Simples de I/O]()
   - [O Modelo Completo de I/O]()
   - [Outras Operações com Arquivos]()
   - [Outras Chamadas de Sistemas]()
       - [Executando Comandos de Sistemas]()
+
+---
+
 - [Preenchendo Lacunas]()
   - [Variáveis Locais e Blocos]()
   - [Estruturas de Controles]()
@@ -52,4 +72,7 @@
       - [**For** Numérico]()
       - [**For** Genérico]()
   - [**break**, **return** e **goto**]()
+
+---
+
 - [Interlúdio: o Problema das Oito Rainhas]()
