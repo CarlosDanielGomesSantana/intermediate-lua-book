@@ -2,6 +2,8 @@
 
 ---
 
+> Aqui daremos ênfases em conceitos básicos. vamos nos aprofundar em conceitos que irão perdurar ao longo do livro
+
 - [Começando]()
   - [Chunks]()
   - [Convenções Léxicas]()
@@ -13,17 +15,21 @@
 
 ---
 
-- [Numbers]()
-  - [Numerais]()
+- [Expressões]()
   - [Operadores Aritméticos]()
   - [Operadores Relacionais]()
-  - [A Biblioteca Matemática]()
-      - [Geradores de números Aleátorios]()
-      - [Funções de Arredondamento]()
-  - [Representação de Limites]()
-  - [Convenções]()
+  - [Operadores Lógicos]()
+  - [Concatenação]()
+  - [Operador de Comprimento]()
   - [Precedência]()
-  - [Lua antes dos Integers]()
+
+---
+
+  - [Numbers]()
+    - [Numerais]()
+    - [Representação de Limites]()
+    - [Convenções]()
+    - [Lua antes dos Integers]()
 
 ---
 
@@ -31,7 +37,6 @@
   - [String Literal]()
   - [String Longa]()
   - [Coerções]()
-  - [A Biblioteca de String]()
   - [Unicode]()
 
 ---
@@ -42,7 +47,6 @@
   - [Arrays, Lists e Sequences]()
   - [Table Transversal]()
   - [Navegação Segura]()
-  - [A Biblioteca de Table]()
 
 ---
 
