@@ -5,7 +5,7 @@
 # Parte I: Os Conceitos Básicos
 
 - [Tópicos da Parte I](./part_1/topics.md)
-  - [Começando]()
+  - [Começando](./part_1/getting_started.md)
     - [Chunks]()
     - [Convenções Léxicas]()
     - [Variáveis Locais]()

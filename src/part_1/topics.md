@@ -4,7 +4,7 @@
 
 > Aqui daremos ênfases em conceitos básicos. vamos nos aprofundar em conceitos que irão perdurar ao longo do livro
 
-- [Começando]()
+- [Começando](./part_1/getting_started.md)
   - [Chunks]()
   - [Convenções Léxicas]()
   - [Variáveis Locais]()
